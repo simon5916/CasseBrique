@@ -1,0 +1,27 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/simondewulf/Desktop/CasseBrique
+
+-- CMAKE_BINARY_DIR: /Users/simondewulf/Desktop/CasseBrique/cmake-build-debug
+-- CMAKE_SOURCE_DIR: /Users/simondewulf/Desktop/CasseBrique
+-- CMAKE_COMMAND: /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake
+-- CMAKE_VERSION: 3.21.1
+-- CMAKE_C_COMPILER: /Library/Developer/CommandLineTools/usr/bin/cc
+-- CMAKE_PROJECT_NAME: CasseBrique
+-- CMAKE_FINDCMAKE: /Users/simondewulf/Desktop/CasseBrique/CMAKE
+
+-- SOURCE entry point : src/main.c
+
+
+-- FINDING SDL2
+-- SDL2_FOUND: TRUE
+-- SDL2_INCLUDE_DIR:/Users/simondewulf/Library/Frameworks/SDL2.framework/Headers
+-- SDL2_LIBRARY: /Users/simondewulf/Library/Frameworks/SDL2.framework-framework Cocoa
+-- Found SDL2TTF: /Users/simondewulf/Library/Frameworks/SDL2_ttf.framework;-framework Cocoa  
+
+-- FINDING SDL2TTF
+-- SDL2TTF_FOUND: TRUE
+-- SDL2TTF_INCLUDE_DIR: /Users/simondewulf/Library/Frameworks/SDL2_ttf.framework/Headers
+-- SDL2TTF_LIBRARY: /Users/simondewulf/Library/Frameworks/SDL2_ttf.framework-framework Cocoa
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/simondewulf/Desktop/CasseBrique/cmake-build-debug

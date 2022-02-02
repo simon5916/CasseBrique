@@ -1,0 +1,19 @@
+# ninja log v5
+1	25	1642182301746321940	CMakeFiles/CasseBrique.dir/structures.c.o	535f80442cbfda13
+1	81	1642866191663159674	CMakeFiles/CasseBrique.dir/collisions.c.o	2aec20547a830337
+1	80	1642868452924337824	CMakeFiles/CasseBrique.dir/menu.c.o	aafdbe0c8e206dbe
+1	83	1642622118059908548	CMakeFiles/CasseBrique.dir/main.c.o	67506b3cc31140ae
+1	77	1642866237567656726	CMakeFiles/CasseBrique.dir/deplacement.c.o	8023ffeca0421346
+1	101	1642868121795485187	CMakeFiles/CasseBrique.dir/gameloop.c.o	5aab90f0e6d0c209
+80	141	1642868452986508504	bin/CasseBrique	782cb82628658ff8
+1	81	1642868473952746012	CMakeFiles/CasseBrique.dir/menu.c.o	aafdbe0c8e206dbe
+81	145	1642868474017021886	bin/CasseBrique	782cb82628658ff8
+1	80	1642868541126401099	CMakeFiles/CasseBrique.dir/menu.c.o	aafdbe0c8e206dbe
+80	140	1642868541187007791	bin/CasseBrique	782cb82628658ff8
+1	81	1642868611431780760	CMakeFiles/CasseBrique.dir/menu.c.o	aafdbe0c8e206dbe
+81	142	1642868611492957197	bin/CasseBrique	782cb82628658ff8
+1	84	1642868689110181950	CMakeFiles/CasseBrique.dir/menu.c.o	aafdbe0c8e206dbe
+84	144	1642868689171179014	bin/CasseBrique	782cb82628658ff8
+1	84	1642967759903761364	CMakeFiles/CasseBrique.dir/gameloop.c.o	5aab90f0e6d0c209
+1	86	1642967759904261283	CMakeFiles/CasseBrique.dir/menu.c.o	aafdbe0c8e206dbe
+86	159	1642967759980159251	bin/CasseBrique	782cb82628658ff8
